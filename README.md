@@ -24,6 +24,7 @@ OR extend and bring your favorite models to the same experience.
 - **Hover animations** and professional transitions
 - **Real-time loading states** with skeleton animations
 - **Film strip navigation** to easily flip through your gneerations
+- **Idea mode** to build prompts from Subject, Scene and Vibe
 
 ## 🛠️ Tech Stack
 
@@ -80,6 +81,11 @@ Open [http://localhost:3000](http://localhost:3000) to view the app.
 2. Click **"Image"** button or press Enter
 3. Watch 4 high-quality images generate in real-time
 4. Hover to **Download**, **Expand**, or **Animate with Veo 2**
+
+### **Idea Mode**
+1. Switch to **Idea** above the prompt bar
+2. Fill in **Subject**, **Scene**, and **Vibe** or use **Shuffle**
+3. Click **"Visualize"** to generate an image from the composed prompt
 
 ### **Generating Videos**
 1. Type your video prompt
